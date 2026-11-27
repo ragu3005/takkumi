@@ -1,0 +1,25 @@
+# Python Virtual Environment
+chrono_env/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Environment Variables
+.env
+
+chrono_env/
+__pycache__/
+*.pyc
+.env
+.vscode/

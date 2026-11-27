@@ -1,0 +1,19 @@
+# Environments & Installers
+Miniconda3-latest.exe
+*.exe
+chrono_env/
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# System Files
+.DS_Store
+Thumbs.db

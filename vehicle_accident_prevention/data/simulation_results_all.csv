@@ -1,0 +1,4 @@
+initial_speed_kmh,obstacle_position_m,vehicle_final_position_m,clearance_m,aeb_activated,aeb_trigger_distance_m,aeb_trigger_speed_kmh,aeb_trigger_time_s,collision_occurred,theoretical_stop_dist_m,accident_prevented
+20,80.0,69.47,10.53,True,11.63,19.87,12.46,False,6.69,True
+40,80.0,61.26,18.74,True,22.79,40.0,5.18,False,17.88,True
+60,80.0,50.64,29.36,True,38.49,60.0,2.5,False,33.56,True
